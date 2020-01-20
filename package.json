@@ -1,0 +1,14 @@
+{
+  "name": "blog_hola_mundo_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Johan Castillo (Jc) jcjohan2707@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  }
+}
